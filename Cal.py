@@ -13,7 +13,6 @@ def divide(x, y):
         return "Error: Cannot divide by zero"
     return x / y
 
-
 while True:
     print("\nSimple Calculator")
     print("1. Addition (+)")
